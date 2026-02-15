@@ -4,7 +4,7 @@
 """
 
 # توکن ربات - از @BotFather بگیر
-BOT_TOKEN = "8558952582:AAGnEE2Vynw8TnkiPH9HdJ_Rvw4G2uNDygo"
+BOT_TOKEN = "توکن شما "
 
 # منوی پیتزا (اسم: قیمت)
 MENU = {
